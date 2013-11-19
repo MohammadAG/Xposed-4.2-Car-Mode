@@ -1,5 +1,8 @@
 <resources>
 
-    <string name="app_name">EnableCarDock</string>
+    <string name="app_name">Enable Car Dock</string>
+    <string name="xposed_description">Enables car dock support on Android 4.2+</string>
+    <string name="pref_title_auto_launch_car_home">Auto start car home</string>
+    <string name="pref_summary_auto_launch_car_home">Auto start car home when the device is put into car mode</string>
 
 </resources>
