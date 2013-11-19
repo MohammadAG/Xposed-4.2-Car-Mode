@@ -1,4 +1,4 @@
-package com.mohammadag.EnableCarDock;
+package com.mohammadag.enablecardock;
 
 import static de.robv.android.xposed.XposedHelpers.findAndHookMethod;
 import static de.robv.android.xposed.XposedHelpers.findClass;

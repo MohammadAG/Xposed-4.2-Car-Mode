@@ -1,4 +1,4 @@
-package com.mohammadag.EnableCarDock;
+package com.mohammadag.enablecardock;
 
 public class Constants {
 	public static final String INTENT_SETTINGS_UPDATED = "com.mohammadag.EnableCarDock.SETTINGS_UPDATED";

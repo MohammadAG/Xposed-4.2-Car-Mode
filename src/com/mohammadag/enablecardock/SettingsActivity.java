@@ -1,4 +1,4 @@
-package com.mohammadag.EnableCarDock;
+package com.mohammadag.enablecardock;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -6,8 +6,6 @@ import android.preference.Preference;
 import android.preference.Preference.OnPreferenceChangeListener;
 import android.preference.PreferenceActivity;
 import android.view.MenuItem;
-
-import com.mohammadag.enablecardock.R;
 
 public class SettingsActivity extends PreferenceActivity {
 	@Override
